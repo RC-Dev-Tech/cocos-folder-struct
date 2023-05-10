@@ -73,7 +73,7 @@ tsconfig.json：typescript配置檔案
 
 ---
 
-## 编辑器配置（profiles）
+## 編輯配置（profiles）
 - 該資料夾主要存放編輯器中的配置資訊，包括場景的配置資訊以及所要輸出的平台建構資訊等.
 
 ```diff
