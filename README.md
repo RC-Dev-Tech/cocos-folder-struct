@@ -6,6 +6,14 @@
 ## 目錄
 * [簡介](#簡介)
 * [assets](#assets-資源目錄)
+* [build](#build-編譯目錄)
+* [library](#library-資源庫)
+* [local](#local-本地設置)
+* [profiles](#profiles-編輯配置)
+* [extensions](#extensions-擴充插件)
+* [settings](#settings-專案設置)
+* [temp](#temp-暫存資料夾)
+* [config](#config-設定檔)
 <!--te-->
 
 ---
@@ -60,7 +68,7 @@ tsconfig.json：typescript配置檔案
 
 ---
 
-## 本地设置（local）
+## local (本地設置)
 - 該資料夾主要存放本機上的配置內容，包括編輯器的面板佈局、窗口大小、位置等資訊.
 
 ```diff
@@ -69,7 +77,7 @@ tsconfig.json：typescript配置檔案
 
 ---
 
-## 編輯配置（profiles）
+## profiles (編輯配置)
 - 該資料夾主要存放編輯器中的配置資訊，包括場景的配置資訊以及所要輸出的平台建構資訊等.
 
 ```diff
@@ -78,7 +86,7 @@ tsconfig.json：typescript配置檔案
 
 ---
 
-## 擴充插件 (extensions)
+## extensions (擴充插件)
 - 該資料夾主要用來放置自定義的擴充插件.<br>
 - 該資料需手動創建. <br>
 - 如要卸載擴充的插件，只要在資料夾中刪除對應的套件即可. <br>
