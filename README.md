@@ -26,9 +26,9 @@
 - library：導入資源目錄後所生成的目錄
 - local：本地配置目录 
 - profiles：编辑器資源配置
-- temp：臨時目錄
-.gitignore：版控檔案
-package.json：套件配置檔案
+- temp：臨時目錄<br>
+.gitignore：版控檔案<br>
+package.json：套件配置檔案<br>
 tsconfig.json：typescript配置檔案
 
 ---
