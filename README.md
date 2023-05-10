@@ -1,11 +1,10 @@
-# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) Cocos 專案目錄結構
+# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) Cocos Creator 版本控制
 
 ---
 
 <!--ts-->
 ## 目錄
 * [簡介](#簡介)
-* [官方資料](#官方資料)
 <!--te-->
 
 ---
@@ -13,10 +12,6 @@
 ## 簡介
 簡單介紹在 Cocos Creator 專案項目中的資料夾結構. <br>
 以及在做版控的時候，哪些檔案是屬於自動產生，哪些檔案需要上傳.<br>
-
-```diff
-- 官方文檔已經有詳細的介紹跟功能描述，這邊就不在多加描述，只有單純紀錄文檔連結!!
-```
 
 ---
 
@@ -124,11 +119,6 @@ tsconfig.json：typescript配置檔案
 ```diff
 - 版本控制: 這三個檔案都需要上傳至版控系統.
 ```
-
----
-
-## 官方資料
-* [Cocos 官方Doc - 項目結構](https://docs.cocos.com/creator/manual/zh/getting-started/project-structure/) <br>
 
 ---
 <!--ts-->
